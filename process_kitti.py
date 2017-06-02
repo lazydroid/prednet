@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''
 Code for downloading and processing KITTI data (Geiger et al. 2013, http://www.cvlibs.net/datasets/kitti/)
 '''

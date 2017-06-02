@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''
 Evaluate trained PredNet on KITTI sequences.
 Calculates mean-squared error and plots predictions.

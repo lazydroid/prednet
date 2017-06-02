@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''
 Train PredNet on KITTI sequences. (Geiger et al. 2013, http://www.cvlibs.net/datasets/kitti/)
 '''
